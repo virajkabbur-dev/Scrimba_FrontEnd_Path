@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap');
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(rgb(168, 207, 255),rgb(255, 205, 214));
+    font-family: "Happy Monkey";
+    color: rgb(0, 0, 104);
+    padding: 0 20px;    
+    scrollbar-width: thin;
+}
+
+.hero {
+    text-align: center;
+}
+
+#profile {
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+.gift-section {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.gift-wrap {
+    display: block;
+    margin: auto;
+    height: 300px;
+    max-width: 500px;
+    border: 5px solid white;
+    border-radius: 6px;
+    background-image: url("img/32705937_7969309.jpg");
+    background-size: cover;
+}
+
+.footer {
+    margin: 50px 40px;
+}
+
+#gift-1:hover {
+    background-image: url("img/santana\ lopez\ glee\ GIF.gif");
+}
+
+#gift-2:hover {
+    background-image: url("img/tv\ show\ elevator\ GIF\ by\ Suits.gif");
+}
+
+#gift-3:hover {
+    background-image: url("img/Excited\ Beard\ GIF.gif");
+}
+
+#gift-4:hover {
+    background-image: url("img/Celebrate\ In\ Love\ GIF\ by\ Max.gif");
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 20px;
+}
